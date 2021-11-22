@@ -1,0 +1,181 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+p{
+    color: #b1b1b1;
+}
+
+h1{
+    color: #0F73EE;
+    font-size: 44px;
+    font-weight: 600;
+}
+
+h2{
+    color: #222831;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+h3{
+    color: #222831;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+h4{
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+
+
+.btn-primary{
+    background-color: #F99824;
+    border: none;
+    border-radius: 8px;
+    box-shadow: 5px 5px 40px rgba(249, 152, 36, 0.16);
+}
+
+.navbar{
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.nav-item{
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.nav-item.active{
+    font-weight: 700;
+}
+
+.nav-link{
+    color: #222831 !important;
+}
+
+.navbar-brand{
+    color: #F99824 !important;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.nav-link-signup{
+    background: #0F73EE;
+    border-radius: 8px;
+    padding: 8px 20px 8px 20px;
+    color: #ffffff !important;
+    width: max-content;
+}
+
+.section-headline{
+    margin-top: 75px;
+    margin-bottom: 120px;
+}
+
+.section-featured .card-travel{
+    min-height: 300px;
+    color: #ffffff;
+    padding: 16px;
+    border-radius: 12px;
+    background-size: cover;
+    margin-bottom: 20px;
+}
+
+.section-featured .card-travel .travel-city{
+    background-color: #ffffff;
+    color: #222831;
+    padding: 8px 12px 8px 12px;
+    border-radius: 6px;
+    font-size: 14px;
+    font-weight: 500;
+
+}
+
+.fa-map-marker-alt{
+    color: #F99824;
+}
+
+.section-more{
+    margin-top: 140px;
+    margin-bottom: 140px;
+}
+
+.section-whyus .why-us-card{
+    padding: 24px 24px 36px 24px;
+    border-radius: 12px;
+}
+
+.section-whyus .why-us-card:hover{
+    box-shadow: 5px 5px 40px rgba(171, 171, 171, 0.16);
+    transition: 0.5s;
+}
+
+.section-testimonial{
+    margin-top: 140px;
+    background-color: #F8FAFC;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.section-testimonial .customer-card{
+    background-color: #ffffff;
+    border-radius: 12px;
+    padding: 48px 40px 48px 40px;
+    box-shadow: 5px 5px 40px rgba(171, 171, 171, 0.16);
+}
+
+.fa-star, .fa-star-half-alt{
+    color: #F99824;
+}
+
+.section-footer{
+    background-color: #222831;
+    padding-top: 100px;
+    padding-bottom: 60px;
+}
+
+.section-footer .footer-logo, .section-footer .footer-title{
+    color: #F99824;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.section-footer .footer-title{
+    color: #ffffff;
+}
+
+.section-footer .footer-link{
+    color: #b1b1b1;
+}
+
+.section-footer .footer-link:hover{
+    text-decoration: none;
+    margin-left: 12px;
+    transition: 0.5s;
+}
+
+.section-footer .social-media-icon{
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-right: 6px;
+    padding-left: 6px;
+    font-size: 24px;
+    width: 38px;
+    border-radius: 4px;
+    margin-right: 8px;
+    text-align: center;
+    text-decoration: none;
+    background: #F99824;
+    color: white;
+
+}
+
+.section-footer-1{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    background-color: #222831;
+}
